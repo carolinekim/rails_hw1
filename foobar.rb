@@ -1,5 +1,4 @@
 class Foobar
-  # Q4 CODE HERE
   def self.baz(a)
   	sum = 0
   	array = a.map(&:to_i)
